@@ -15,7 +15,7 @@
 
 > 服务速率有限，请有限访问，谢谢
 
-[体验地址](http://chatgpt-web-plus.it007996.top)
+[体验地址](http://chatgpt-web-plus.it007996.top/login?inviteCode=BNPW7BQHD)
 
 联系：
 
