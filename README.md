@@ -23,8 +23,8 @@
 
 联系：
 
-[Q群:734133205](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=mj6rjqBvsNkT66LsQAfMBIqZl0Esjwn5&authKey=CQa4XIElV0DIhjIbIgfix1bUZW5wRNnEJeHo%2BEDloZOIcnXaTe%2Bbzvn0A42Wseq5&noverify=0&group_code=734133205)
-
+Q群1：734133205（满）
+Q群2：708017015
 
 ## 预览
 
@@ -37,6 +37,10 @@
 ![账户](docs/5.jpeg)
 ![套餐](docs/6.jpeg)
 ![邀请码](docs/7.jpeg)
+![邀请码](docs/8.jpeg)
+![邀请码](docs/9.jpeg)
+![邀请码](docs/10.jpeg)
+![邀请码](docs/11.jpeg)
 
 后台管理
 ![后台](docs/admin.jpeg)
@@ -57,7 +61,3 @@
 [✓] 自定义敏感词
 
 [✗] more..
-
-## 联系
-
-QQ群号: [734133205](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=mj6rjqBvsNkT66LsQAfMBIqZl0Esjwn5&authKey=CQa4XIElV0DIhjIbIgfix1bUZW5wRNnEJeHo%2BEDloZOIcnXaTe%2Bbzvn0A42Wseq5&noverify=0&group_code=734133205)
