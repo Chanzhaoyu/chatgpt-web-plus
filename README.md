@@ -23,7 +23,7 @@
 
 联系：
 
-Q群1：734133205（满）
+Q群1：734133205（可能满）
 
 Q群2：777391456
 
@@ -36,12 +36,13 @@ Q群2：777391456
 ![主页](docs/3.jpeg)
 ![总览](docs/4.jpeg)
 ![账户](docs/5.jpeg)
-![套餐](docs/6.jpeg)
-![邀请码](docs/7.jpeg)
-![邀请码](docs/8.jpeg)
-![邀请码](docs/9.jpeg)
-![邀请码](docs/10.jpeg)
-![邀请码](docs/11.jpeg)
+![绘画](docs/drawer.jpeg)
+![个人中心](docs/6.jpeg)
+![个人中心](docs/7.jpeg)
+![个人中心](docs/8.jpeg)
+![个人中心](docs/9.jpeg)
+![个人中心](docs/10.jpeg)
+![设置](docs/11.jpeg)
 
 后台管理
 ![后台](docs/admin.jpeg)
