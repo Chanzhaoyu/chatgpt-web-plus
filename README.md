@@ -47,18 +47,21 @@ Q群2：777391456
 
 客户端
 
-![登录/注册](docs/1.jpeg)
-![找回密码](docs/2.jpeg)
-![主页](docs/3.jpeg)
-![总览](docs/4.jpeg)
-![账户](docs/5.jpeg)
-![绘画](docs/drawer.jpeg)
-![个人中心](docs/6.jpeg)
-![个人中心](docs/7.jpeg)
-![个人中心](docs/8.jpeg)
-![个人中心](docs/9.jpeg)
-![个人中心](docs/10.jpeg)
-![设置](docs/11.jpeg)
+![image](docs/1.jpeg)
+![image](docs/2.jpeg)
+![image](docs/3.jpeg)
+![image](docs/4.jpeg)
+![image](docs/5.jpeg)
+![image](docs/6.jpeg)
+![image](docs/7.jpeg)
+![image](docs/8.jpeg)
+![image](docs/9.jpeg)
+![image](docs/10.jpeg)
+![image](docs/11.jpeg)
+![image](docs/12.jpeg)
+![image](docs/13.jpeg)
+![image](docs/14.jpeg)
+![image](docs/15.jpeg)
 
 后台管理
 ![后台](docs/admin.jpeg)
