@@ -33,7 +33,7 @@
 
 未收到注册邮件，可能是发送拥堵或检查你的邮箱-垃圾箱
   
-[体验地址](http://chatgpt-web-plus.it007996.top/login?inviteCode=BNPW7BQHD)
+[体验地址](https://chatgpt-web-plus.it007996.top/auth/register?inviteCode=BNPW7BQHD)
 
 联系：
 
