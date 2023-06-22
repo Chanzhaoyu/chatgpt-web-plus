@@ -58,11 +58,20 @@ Q群2：777391456（可能满）
 Q群3：708017015（可能满）
 
 ## 预览
+
+### PC
 ![image](docs/preview/p1.png)
 ![image](docs/preview/p2.png)
 ![image](docs/preview/p3.png)
 ![image](docs/preview/p4.png)
 ![image](docs/preview/p5.png)
+
+### Mobile
+![image](docs/preview/m1.png)
+![image](docs/preview/m2.png)
+![image](docs/preview/m3.png)
+![image](docs/preview/m4.png)
+![image](docs/preview/m5.png)
 ## 细节
 
 预览图与实际更新效果可能存在差异，请以最新版本为准。
