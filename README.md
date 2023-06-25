@@ -7,6 +7,7 @@
 包含完整管理的 `chatgpt-web` 应用
 
 ## 功能
+
 [✓] 登录、注册、用户管理
 
 [✓] 微信登录
@@ -35,7 +36,7 @@
 
 [✓] 思维导图
 
-[✓] AI绘画（单独付费模块）
+[✓] AI 绘画（单独付费模块）
 
 [✓] 画廊
 
@@ -46,20 +47,21 @@
 > 服务速率有限，请有限访问，谢谢
 
 未收到注册邮件，可能是发送拥堵或检查你的邮箱-垃圾箱
-  
+
 [体验地址](https://chatgpt-web-plus.it007996.top/auth/register?inviteCode=BNPW7BQHD)
 
 联系：
 
-Q群1：734133205（可能满）
+Q 群 1：734133205（可能满）
 
-Q群2：777391456（可能满）
+Q 群 2：777391456（可能满）
 
-Q群3：708017015（可能满）
+Q 群 3：708017015（可能满）
 
 ## 预览
 
 ### PC
+
 ![image](docs/preview/p1.png)
 ![image](docs/preview/p2.png)
 ![image](docs/preview/p3.png)
@@ -67,11 +69,15 @@ Q群3：708017015（可能满）
 ![image](docs/preview/p5.png)
 
 ### Mobile
-![image](docs/preview/m1.png)
-![image](docs/preview/m2.png)
-![image](docs/preview/m3.png)
-![image](docs/preview/m4.png)
-![image](docs/preview/m5.png)
+
+<div style="display: grid; grid-template-columns: repeat(3 , 1fr); gap: 1rem;">
+  <div><img src="docs/preview/m1.png" /></div>
+  <div><img src="docs/preview/m2.png" /></div>
+  <div><img src="docs/preview/m3.png" /></div>
+  <div><img src="docs/preview/m4.png" /></div>
+  <div><img src="docs/preview/m5.png" /></div>
+</div>
+
 ## 细节
 
 预览图与实际更新效果可能存在差异，请以最新版本为准。
@@ -100,4 +106,3 @@ Q群3：708017015（可能满）
 
 后台管理
 ![后台](docs/admin.jpeg)
-
