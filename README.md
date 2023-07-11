@@ -34,6 +34,8 @@
 
 [✓] 单点登录
 
+[✓] 主题颜色
+
 [✓] AI 绘画（单独付费模块）
 
 [✓] 画廊
@@ -91,6 +93,9 @@ Q 群 3：708017015（可能满）
 ![image](docs/1.jpeg)
 ![image](docs/2.jpeg)
 ![image](docs/3.jpeg)
+![image](docs/3-1.jpeg)
+![image](docs/3-2.jpeg)
+![image](docs/3-3.jpeg)
 ![image](docs/4.jpeg)
 ![image](docs/5.jpeg)
 ![image](docs/6.jpeg)
@@ -111,4 +116,4 @@ Q 群 3：708017015（可能满）
 ![image](docs/19.jpeg)
 
 后台管理
-![后台](docs/admin.jpeg)
+![后台](docs/admin.png)
