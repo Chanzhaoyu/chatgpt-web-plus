@@ -4,7 +4,7 @@
 
 简介：
 
-包含完整管理的 `chatgpt-web` 应用
+包含完整 `sass` 体验的 `chatgpt-web` 应用
 
 ## 功能
 
@@ -27,6 +27,8 @@
 [✓] 用户额度管理
 
 [✓] 用户消耗记录
+
+[✓] 用户等级
 
 [✓] 自定义回复内容
 
@@ -68,7 +70,10 @@ Q 群 3：708017015（可能满）
 
 预览图与实际更新效果可能存在差异，请以最新版本为准。
 
-### PC
+## 封面
+![image](docs/cover.png)
+
+### 桌面
 
 ![image](docs/preview/p1.png)
 ![image](docs/preview/p2.png)
@@ -76,7 +81,7 @@ Q 群 3：708017015（可能满）
 ![image](docs/preview/p4.png)
 ![image](docs/preview/p5.png)
 
-### Mobile
+### 移动
 
 <div style="display: grid; grid-template-columns: repeat(3 , 1fr); gap: 1rem;">
   <div><img src="docs/preview/m1.png" /></div>
