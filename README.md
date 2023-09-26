@@ -42,6 +42,8 @@
 
 [✓] 主题颜色
 
+[✓] PDF 解析
+
 [✓] AI 绘画（单独付费模块）
 
 [✓] 画廊
@@ -83,7 +85,6 @@ Q 群 3：708017015（可能满）
 ![image](docs/preview/p2.png)
 ![image](docs/preview/p3.png)
 ![image](docs/preview/p4.png)
-![image](docs/preview/p5.png)
 
 ### 移动
 
@@ -108,7 +109,8 @@ Q 群 3：708017015（可能满）
 ![image](docs/4.jpeg)
 ![image](docs/5.jpeg)
 ![image](docs/6.jpeg)
-![image](docs/7.jpeg)
+![image](docs/doc1.png)
+![image](docs/doc2.png)
 ![image](docs/8.jpeg)
 ![image](docs/9.jpeg)
 ![image](docs/10.jpeg)
