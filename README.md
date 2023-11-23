@@ -42,6 +42,10 @@
 
 [✓] 主题颜色
 
+[✓] DALL·E
+
+[✓] gpt-4-vision
+
 [✓] PDF 解析
 
 [✓] AI 绘画（单独付费模块）
@@ -62,7 +66,7 @@
 
 未收到注册邮件，可能是发送拥堵或检查你的邮箱-垃圾箱
 
-[体验地址](https://chatgpt-web-plus.it007996.top/auth/register?inviteCode=BNPW7BQHD)
+[体验地址](https://chatgpt-web-plus.it007996.top)
 
 联系：
 
