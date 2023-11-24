@@ -4,7 +4,7 @@
 
 简介：
 
-包含完整 `sass` 体验的 `chatgpt-web` 应用
+包含完整 `sass` 体验的 `chatgpt-web` 应用，响应式支持，也可打包桌面端。
 
 ## 功能
 
@@ -79,24 +79,8 @@ Q 群 2：777391456（可能满）
 预览图与实际更新效果可能存在差异，请以最新版本为准。
 
 ## 封面
+
 ![image](docs/cover.png)
-
-### 桌面
-
-![image](docs/preview/p1.png)
-![image](docs/preview/p2.png)
-![image](docs/preview/p3.png)
-![image](docs/preview/p4.png)
-
-### 移动
-
-<div style="display: grid; grid-template-columns: repeat(3 , 1fr); gap: 1rem;">
-  <div><img src="docs/preview/m1.png" /></div>
-  <div><img src="docs/preview/m2.png" /></div>
-  <div><img src="docs/preview/m3.png" /></div>
-  <div><img src="docs/preview/m4.png" /></div>
-  <div><img src="docs/preview/m5.png" /></div>
-</div>
 
 ## 细节
 
@@ -111,6 +95,8 @@ Q 群 2：777391456（可能满）
 ![image](docs/4.jpeg)
 ![image](docs/5.jpeg)
 ![image](docs/6.jpeg)
+![image](docs/dall-1.jpg)
+![image](docs/dall-2.jpg)
 ![image](docs/doc1.png)
 ![image](docs/doc2.png)
 ![image](docs/8.jpeg)
